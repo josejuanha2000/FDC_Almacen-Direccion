@@ -1,0 +1,6 @@
+F:\ALMACEN\obj\Release\ResolveAssemblyReference.cache
+F:\ALMACEN\obj\Release\Almacen.FRMRequerimientos.resources
+F:\ALMACEN\obj\Release\Almacen.Resources.resources
+F:\ALMACEN\obj\Release\ALMACEN.vbproj.GenerateResource.Cache
+F:\ALMACEN\obj\Release\Almacen.FRMReq.resources
+F:\ALMACEN\obj\Release\ALMACEN.pdb

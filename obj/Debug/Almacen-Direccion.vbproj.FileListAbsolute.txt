@@ -1,0 +1,17 @@
+F:\FDC_Almacen-Direccion\bin\Debug\ALMACEN.exe.config
+F:\FDC_Almacen-Direccion\obj\Debug\ALMACEN.exe
+F:\FDC_Almacen-Direccion\obj\Debug\ALMACEN.xml
+F:\FDC_Almacen-Direccion\obj\Debug\ALMACEN.pdb
+F:\FDC_Almacen-Direccion\bin\Debug\ALMACEN.exe
+F:\FDC_Almacen-Direccion\bin\Debug\ALMACEN.pdb
+F:\FDC_Almacen-Direccion\bin\Debug\ALMACEN.xml
+F:\FDC_Almacen-Direccion\obj\Debug\Almacen.FrmJefes.resources
+F:\FDC_Almacen-Direccion\obj\Debug\Almacen.FrmMenu_Aut_Req_Direccion.resources
+F:\FDC_Almacen-Direccion\obj\Debug\Almacen.FRMREQMAT.resources
+F:\FDC_Almacen-Direccion\obj\Debug\Almacen.Frm_Req_Mat_Aut_Direccion.resources
+F:\FDC_Almacen-Direccion\obj\Debug\Almacen.LoginFormJefes.resources
+F:\FDC_Almacen-Direccion\obj\Debug\Almacen.MenuJefes.resources
+F:\FDC_Almacen-Direccion\obj\Debug\Almacen.Resources.resources
+F:\FDC_Almacen-Direccion\obj\Debug\Almacen.SplashScreen1.resources
+F:\FDC_Almacen-Direccion\obj\Debug\Almacen-Direccion.vbproj.GenerateResource.Cache
+F:\FDC_Almacen-Direccion\obj\Debug\Almacen-Direccion.vbprojResolveAssemblyReference.cache
