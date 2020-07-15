@@ -174,6 +174,7 @@ Partial Class FrmJefes
         Me.ListView1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ListView1.FullRowSelect = True
         Me.ListView1.GridLines = True
+        Me.ListView1.HideSelection = False
         Me.ListView1.Location = New System.Drawing.Point(12, 134)
         Me.ListView1.Name = "ListView1"
         Me.ListView1.Size = New System.Drawing.Size(911, 220)
@@ -239,8 +240,8 @@ Partial Class FrmJefes
         '
         'SqlConnection1
         '
-        Me.SqlConnection1.ConnectionString = "Data Source=COLMASQLFDC01\FACDYCDES;Initial Catalog=ALMACEN;Integrated Security=T" & _
-    "rue"
+        Me.SqlConnection1.ConnectionString = "Data Source=148.234.110.22;Initial Catalog=ALMACEN;User ID=sa;Password=Facdyc2020" &
+    ""
         Me.SqlConnection1.FireInfoMessageEventOnUserErrors = False
         '
         'BtnRechazar
